@@ -5,7 +5,7 @@
     
  "scripts": {
    
-      "start": "node j.js",
+      "start": "node index.html",
  	"build": "echo 'build script executed'"
  }
  
