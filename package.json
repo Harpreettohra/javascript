@@ -1,6 +1,11 @@
-{   "start": "node index.html",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+{ 
     
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    
+ "scripts": {
+    "main": "j.js",
+ 	"build": "echo 'build script executed'"
+ }
+ 
 }
