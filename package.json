@@ -7,6 +7,7 @@
  "scripts": {
    "postinstall": "npm run build",
    "start": "node j.js",
+   "main":"index.html",
  "build": "echo 'build script executed'",
  
    "name": "myapp",
