@@ -4,7 +4,8 @@
     "eject": "react-scripts eject",
     
  "scripts": {
-    "main": "j.js",
+   
+      "start": "node j.js",
  	"build": "echo 'build script executed'"
  }
  
