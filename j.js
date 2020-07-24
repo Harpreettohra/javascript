@@ -1,5 +1,7 @@
 var msg = 'Hello World';
 console.log(msg);
-app.get('/', function(req, res){
-  res.redirect('/todo');
+response.writeHead(301, {
+  Location: "http" + (request.socket.encrypted ? "s" : "") + "://" + 
+    request.headers.host + newRoom
 });
+response.end();
